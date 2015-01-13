@@ -1,0 +1,36 @@
+TPSThrowGestureManager
+====================
+
+
+DESCRIPTION
+--------------------
+
+Simple ThrowGesture detection manager for Unity + C#.
+
+
+PLATFORM
+--------------------
+
+Unity 4.6 and later.
+
+
+USAGE
+--------------------
+
+See [ThrowGestureManager.cs](Assets/Scripts/ThrowGestureManager.cs) and/or [ExampleRunner.cs](Assets/Example/Scripts/ExampleRunner.cs), sorry.
+
+
+AUTHOR
+--------------------
+
+MIYOKAWA, Nobuyoshi
+
+* E-Mail: n-miyo@tempus.org
+* Twitter: nmiyo
+* Blog: http://blogger.tempus.org/
+
+
+COPYRIGHT
+--------------------
+
+See: [LICENSE](LICENSE)
